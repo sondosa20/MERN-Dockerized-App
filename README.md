@@ -12,7 +12,7 @@ This is a basic MERN (MongoDB, Express, React, Node.js) application.
 - Frontend with React.
 
 ## Cloner le projet
-git clone https://github.com/sondosa20/firstMernApp.git
+git clone https://github.com/sondosa20/MERN-Dockerized-App.git
 
 ## Lancer l'app
 - cd backend : npm install pour installer les dependences
